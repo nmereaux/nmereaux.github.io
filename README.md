@@ -1,0 +1,1 @@
+Test Hexo static
